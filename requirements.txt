@@ -1,4 +1,4 @@
 discord.py==2.4.0
 python-dotenv==1.0.1
-opengradient==0.1.2
+opengradient==0.7.4
 eth-account==0.11.2
